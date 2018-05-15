@@ -1,0 +1,21 @@
+ip,time,request,status,size,referer,user_agent,session,visit
+IP2515,2017-09-01 00:00:00+02:00,GET /record/205491/files/bel_hgi_sm.pdf HTTP/1.1,200,209365,,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36",7,1
+IP419,2017-09-01 00:00:00+02:00,GET /record/104497/?ln=it HTTP/1.1,200,3826,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),12,1
+IP145,2017-09-01 00:00:00+02:00,GET /record/103976/?ln=it HTTP/1.1,200,3827,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),1,1
+IP260,2017-09-01 00:00:01+02:00,GET /record/115618/?ln=it HTTP/1.1,200,3826,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),9,1
+IP880,2017-09-01 00:00:01+02:00,GET /record/92978/files/?ln=de HTTP/1.1,200,2313,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),19,1
+IP444,2017-09-01 00:00:02+02:00,GET /record/119457 HTTP/1.1,200,3786,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),13,1
+IP156,2017-09-01 00:00:03+02:00,GET /record/9484/export/xd?ln=fr HTTP/1.1,200,497,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),2,1
+IP260,2017-09-01 00:00:04+02:00,GET /record/89769/export/xd?ln=fr HTTP/1.1,200,344,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),9,2
+IP241,2017-09-01 00:00:04+02:00,GET /search?ln=it&rm=wrd&p=recid%3A209381 HTTP/1.1,200,9247,,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",6,1
+IP253,2017-09-01 00:00:05+02:00,GET /record/99391/files/?ln=de HTTP/1.1,200,2310,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),8,1
+IP200,2017-09-01 00:00:05+02:00,GET /record/80735/?ln=de HTTP/1.1,200,3838,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),5,1
+IP748,2017-09-01 00:00:06+02:00,GET /search?c=NAVSITE.NEUCHATEL_JURA.BPUNE&jrec=1&ifacets=keyword%3Ablogue&ifacets=language%3Afre&ifacets=keyword%3Arecherche+documentaire&ln=en&keep_facet_filter=1&so=d HTTP/1.1,200,17884,,"Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)",17,1
+IP169,2017-09-01 00:00:06+02:00,GET /record/102764/files/?ln=it HTTP/1.1,200,2311,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),3,1
+IP38,2017-09-01 00:00:06+02:00,GET /search?c=NAVDOCTYPE.ARTICLE&c=NAVSITE.FRIBOURG&ifacets=author%3AGex-Fabry%2C%20Emilie&ifacets=author%3AM%C3%BCller-Sch%C3%A4rer%2C%20Heinz&ifacets=keyword%3Abiogeography&jrec=1&keep_facet_filter=0&ln=fr&so=a HTTP/1.1,200,6385,,Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html),11,1
+IP468,2017-09-01 00:00:06+02:00,GET /record/87249/?ln=it HTTP/1.1,200,3824,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),14,1
+IP50,2017-09-01 00:00:08+02:00,GET /record/10666/?ln=fr HTTP/1.1,200,6146,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),15,1
+IP266,2017-09-01 00:00:08+02:00,GET /record/109886/?ln=de HTTP/1.1,200,3839,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),10,1
+IP621,2017-09-01 00:00:09+02:00,GET /record/103501/?ln=de HTTP/1.1,200,3840,,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),16,1
+IP767,2017-09-01 00:00:09+02:00,HEAD /record/123235 HTTP/1.1,200,0,,Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0,18,1
+IP17,2017-09-01 00:00:09+02:00,GET /rss?ln=fr&p=recid%3A6452 HTTP/1.1,200,1482,,Java/1.8.0_121,4,1

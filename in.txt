@@ -1,0 +1,20 @@
+IP2515 - - [01/Sep/2017:00:00:00 +0200] "GET /record/205491/files/bel_hgi_sm.pdf HTTP/1.1" 200 209365 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" 121545 0 NOSSL
+IP419 - - [01/Sep/2017:00:00:00 +0200] "GET /record/104497/?ln=it HTTP/1.1" 200 3826 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 194065 0 NOSSL
+IP145 - - [01/Sep/2017:00:00:00 +0200] "GET /record/103976/?ln=it HTTP/1.1" 200 3827 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 223416 0 NOSSL
+IP260 - - [01/Sep/2017:00:00:01 +0200] "GET /record/115618/?ln=it HTTP/1.1" 200 3826 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 249033 0 NOSSL
+IP880 - - [01/Sep/2017:00:00:01 +0200] "GET /record/92978/files/?ln=de HTTP/1.1" 200 2313 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 161414 0 NOSSL
+IP444 - - [01/Sep/2017:00:00:02 +0200] "GET /record/119457 HTTP/1.1" 200 3786 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 193050 0 NOSSL
+IP156 - - [01/Sep/2017:00:00:03 +0200] "GET /record/9484/export/xd?ln=fr HTTP/1.1" 200 497 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 125291 0 NOSSL
+IP260 - - [01/Sep/2017:00:00:04 +0200] "GET /record/89769/export/xd?ln=fr HTTP/1.1" 200 344 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 124841 0 NOSSL
+IP241 - - [01/Sep/2017:00:00:04 +0200] "GET /search?ln=it&rm=wrd&p=recid%3A209381 HTTP/1.1" 200 9247 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36" 586732 0 NOSSL
+IP253 - - [01/Sep/2017:00:00:05 +0200] "GET /record/99391/files/?ln=de HTTP/1.1" 200 2310 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 137582 0 NOSSL
+IP200 - - [01/Sep/2017:00:00:05 +0200] "GET /record/80735/?ln=de HTTP/1.1" 200 3838 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 182648 0 NOSSL
+IP748 - - [01/Sep/2017:00:00:06 +0200] "GET /search?c=NAVSITE.NEUCHATEL_JURA.BPUNE&jrec=1&ifacets=keyword%3Ablogue&ifacets=language%3Afre&ifacets=keyword%3Arecherche+documentaire&ln=en&keep_facet_filter=1&so=d HTTP/1.1" 200 17884 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" 228449 0 NOSSL
+IP169 - - [01/Sep/2017:00:00:06 +0200] "GET /record/102764/files/?ln=it HTTP/1.1" 200 2311 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 140425 0 NOSSL
+IP38 - - [01/Sep/2017:00:00:06 +0200] "GET /search?c=NAVDOCTYPE.ARTICLE&c=NAVSITE.FRIBOURG&ifacets=author%3AGex-Fabry%2C%20Emilie&ifacets=author%3AM%C3%BCller-Sch%C3%A4rer%2C%20Heinz&ifacets=keyword%3Abiogeography&jrec=1&keep_facet_filter=0&ln=fr&so=a HTTP/1.1" 200 6385 "-" "Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)" 309186 0 SSL
+IP468 - - [01/Sep/2017:00:00:06 +0200] "GET /record/87249/?ln=it HTTP/1.1" 200 3824 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 179201 0 NOSSL
+IP50 - - [01/Sep/2017:00:00:08 +0200] "GET /record/10666/?ln=fr HTTP/1.1" 200 6146 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 269317 0 NOSSL
+IP266 - - [01/Sep/2017:00:00:08 +0200] "GET /record/109886/?ln=de HTTP/1.1" 200 3839 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 187609 0 NOSSL
+IP621 - - [01/Sep/2017:00:00:09 +0200] "GET /record/103501/?ln=de HTTP/1.1" 200 3840 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 184443 0 NOSSL
+IP767 - - [01/Sep/2017:00:00:09 +0200] "HEAD /record/123235 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0" 190790 0 NOSSL
+IP17 - - [01/Sep/2017:00:00:09 +0200] "GET /rss?ln=fr&p=recid%3A6452 HTTP/1.1" 200 1482 "-" "Java/1.8.0_121" 103679 0 NOSSL
